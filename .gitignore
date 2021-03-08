@@ -14,7 +14,11 @@ node_modules/
 /build
 
 # misc
+_cacache
 .DS_Store
+_cacache/
+_locks/
+_locks
 .env
 .env.local
 .env.development.local
